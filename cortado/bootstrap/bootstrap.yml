@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/qjoly/gitops
+    repoURL: https://github.com/Roguito/cis
     targetRevision: main
     path: common
   destination:
@@ -27,7 +27,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/qjoly/gitops
+    repoURL: https://github.com/Roguito/cis
     targetRevision: main
     path: cortado/system
   destination:
@@ -48,7 +48,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/qjoly/gitops
+    repoURL: https://github.com/Roguito/cis
     targetRevision: main
     path: cortado/apps
   destination:

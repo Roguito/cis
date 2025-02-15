@@ -46,7 +46,7 @@ To avoid headaches and to keep things simple, I use [Talos](https://www.talos.de
 
 ### Cluster
 
-- [**Cortado** : Single node bare-metal cluster hosted by OVH.](https://github.com/qjoly/GitOps/tree/main/cortado)
+- [**Cortado** : Single node bare-metal cluster hosted by OVH.](https://github.com/Roguito/cis/tree/main/cortado)
 <div align="center">
 
 [![Talos](https://img.shields.io/endpoint?url=https%3A%2F%2Fkromgo.cortado.thoughtless.eu%2Ftalos_version&style=flat-square&logo=talos&logoColor=white&color=red&label=%20)](https://talos.dev)
@@ -60,7 +60,7 @@ To avoid headaches and to keep things simple, I use [Talos](https://www.talos.de
 
 </div>
 
-- [**Arabica** : Another node bare-metal cluster hosted by OVH.](https://github.com/qjoly/GitOps/tree/main/arabica), soon to be decommissioned *(26/05/2025)* and used as staging environment.
+- [**Arabica** : Another node bare-metal cluster hosted by OVH.](https://github.com/Roguito/cis/tree/main/arabica), soon to be decommissioned *(26/05/2025)* and used as staging environment.
 <div align="center">
 
 [![Talos](https://img.shields.io/endpoint?url=https%3A%2F%2Fkromgo.arabica.thoughtless.eu%2Ftalos_version&style=flat-square&logo=talos&logoColor=white&color=red&label=%20)](https://talos.dev)
